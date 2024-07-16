@@ -33,16 +33,16 @@ Vous travaillez pour la ville de Seattle. Afin de réduire les émissions de car
 
 ## 🧑‍💻 Utilisation
 ### Analyse Exploratoire
-Pour effectuer une analyse exploratoire des données, exécutez le notebook Moreno_Bastien_1_notebook_exploratoire_112023.ipynb.
+Pour effectuer une analyse exploratoire des données, exécutez le notebook `Moreno_Bastien_1_notebook_exploratoire_112023.ipynb`.
 
 ### Prédiction des Émissions de CO2
-Pour prédire les émissions de CO2, exécutez le notebook Moreno_Bastien_2_notebook_prediction_112023.ipynb.
+Pour prédire les émissions de CO2, exécutez le notebook `Moreno_Bastien_2_notebook_prediction_112023.ipynb`.
 
 ### Prédiction de la Consommation Énergétique
-Pour prédire la consommation énergétique totale des bâtiments, exécutez le notebook Moreno_Bastien_3_notebook_prediction_112023.ipynb.
+Pour prédire la consommation énergétique totale des bâtiments, exécutez le notebook `Moreno_Bastien_3_notebook_prediction_112023.ipynb`.
 
 ### Présentation des Résultats
-Pour consulter la présentation des résultats, ouvrez le fichier Moreno_Bastien_4_presentation_112023.pdf.
+Pour consulter la présentation des résultats, ouvrez le fichier `Moreno_Bastien_4_presentation_112023.pdf`.
 
 ## 👨‍💻 Auteur
 Bastien Moreno - Data Scientist et passionné par l'analyse de données et le développement de modèles intelligents.\
